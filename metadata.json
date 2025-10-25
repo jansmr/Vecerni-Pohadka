@@ -1,0 +1,5 @@
+{
+  "name": "Večerní Pohádka",
+  "description": "Aplikace, která generuje personalizované pohádky na dobrou noc pro děti, doplněné ilustracemi inspirovanými fotografií dítěte.",
+  "requestFramePermissions": []
+}
